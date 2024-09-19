@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sietske-dk
 - 👀 I’m interested in (Particle) Physics, Astronomy and AI.
-- 🌱 I’m currently learning about Evolutionary Algorithms
-- 💃 My current hobbies include: running, football, snowboarding, backpacking, collaging and sketching 
+- 🌱 I’m currently learning about Evolutionary Algorithms and Advanced Machine Learning
+- 💃 My current hobbies include: mountaineering, running, ultimate frisbee, snowboarding, backpacking, collaging and sketching 
 - 📫 Contact me at: sietskedekeijzer@gmail.com
 
 <!---
